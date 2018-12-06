@@ -1,8 +1,8 @@
 
 .center{
 	width: 25%;
-	position: relative;
-	top:80.4%;
+	position:absolute;
+	top:76.4%;
 	left:-15.5%;
     transform: translate(65%,80%);
 	padding: 10px;
